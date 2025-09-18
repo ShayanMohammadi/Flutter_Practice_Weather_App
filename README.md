@@ -18,27 +18,8 @@ Clean, responsive UI
 Error handling for invalid city names
 
 Screenshots / Demo
+
+
 <img src="weather_ui/screenshots/pic2.png" width="300">
 
-(Optional: add a GIF or Loom video link here for live demo)
 
-Getting Started
-
-Clone the repo:
-
-git clone https://github.com/YOUR_USERNAME/weather-app.git
-
-
-Navigate to the project folder:
-
-cd weather-app
-
-
-Get dependencies:
-
-flutter pub get
-
-
-Run the app:
-
-flutter run
